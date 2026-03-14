@@ -1,7 +1,7 @@
 # StudentISys
 ### Student Information Management System
 
-> A Flutter mobile app connected to a PHP/MySQL REST API backend — full CRUD operations for managing student records including name, student ID, email, course, year level, and GPA. Runs over a local network using XAMPP.
+> A Flutter mobile app connected to a PHP/MySQL REST API backend - full CRUD operations for managing student records including name, student ID, email, course, year level, and GPA. Runs over a local network using XAMPP.
 
 ---
 
