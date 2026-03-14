@@ -244,14 +244,3 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^5.0.0
 ```
-
----
-
-## Roadmap
-
-- [ ] Pagination for large student lists
-- [ ] Sort by name, course, or year level
-- [ ] Export student list as CSV or PDF
-- [ ] Student photo upload
-- [ ] Login / authentication system
-- [ ] Dark mode
